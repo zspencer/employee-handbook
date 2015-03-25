@@ -11,9 +11,29 @@ gets paid out monthly from the previous quarters profits.
  * Set your own schedule
  * Part-time and full-time friendly
  * Minimum vacation policy
- * 3 days a week gets you full-time benefits
  * Profit sharing
 
+### Part Time Benefits
+ * 1 half day a week of paid Slack time.
+ * 8 days paid minimum vacation per year.
+ * 2 days paid minimum sick/recovery time per year.
+ * 4 flexible holiday days per year.
+ * $800 per year Tools of the Trade and Education budget.
+
+### Full Time Benefits
+We consider people working 3 days a week full time team members.
+
+ * 1 full day a week of paid Slack time.
+ * 20 days minimum paid vacation.
+ * 5 days minimum sick/recovery time per year.
+ * 10 flexible holiday days per year.
+ * $2,000 per year Tools of the Trade and Education budget.
+ * Full dental and vision coverage for employee and dependents.
+
 ### Upcoming Benefits
- * Tools of the Trade and Education budget.
- * Generous healthcare, 401(k), and charitable matching packages.
+ * Co-working space reimbursements
+ * Phone + Data plan
+ * Generous medical insurance
+ * A 401(k)
+ * Charitable matching packages.
+ * Employee Stock Purchase Plan
