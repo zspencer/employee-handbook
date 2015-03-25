@@ -1,0 +1,11 @@
+---
+title: Zinc Employee Handbook
+creator:
+  - role: author
+    text: Zinc Technology Inc
+  - role: author
+    text: Zinc Technology Inc
+publisher: Zinc Technology Inc
+rights: © 2015 Zinc Technology Inc, CC BY-NC-SA
+language: en-US
+---
