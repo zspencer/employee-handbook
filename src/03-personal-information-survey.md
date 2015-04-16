@@ -1,6 +1,6 @@
 # Personal Information Survey
 
-The Personal Information Survey is a brief questionnaire that is first answered before the interview process starts, and can be updated as is necessary. The purpose of the Survey is to help employees and interviewees more respectfully communicate with each other. It includes such information as:
+The Personal Information Survey is a brief questionnaire that is answered before the interview process starts, and can be updated as necessary. The purpose of the Survey is to help employees and interviewees more respectfully communicate with each other. It includes such information as:
 
 1. **Name** to use when referring to and addressing them.
 2. **Pronouns** to use when referring to them.
