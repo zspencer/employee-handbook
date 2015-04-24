@@ -14,7 +14,7 @@ gets paid out monthly from the previous quarters profits.
  * Profit sharing
 
 ### Part Time Benefits
- * 1 half day a week of paid Slack time.
+ * 1 half day a week of paid [undirected time](/undirected-time-explained).
  * 8 days paid minimum vacation per year.
  * 2 days paid minimum sick/recovery time per year.
  * 4 flexible holiday days per year.
@@ -23,7 +23,7 @@ gets paid out monthly from the previous quarters profits.
 ### Full Time Benefits
 We consider people working 3 days a week full time team members.
 
- * 1 full day a week of paid Slack time.
+ * 1 full day a week of paid [undirected time](/undirected-time-explained).
  * 20 days minimum paid vacation.
  * 5 days minimum sick/recovery time per year.
  * 10 flexible holiday days per year.
