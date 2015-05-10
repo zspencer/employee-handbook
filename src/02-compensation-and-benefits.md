@@ -4,7 +4,8 @@
 
 Every Zinc employee and executive earns the same amount. $300 per day. (Or $150
 per half-day). Every half-day worked gets added to a profit-sharing pool; which
-gets paid out monthly from the previous quarters profits.
+gets paid out monthly from the previous quarters profits. Each Zinc employee 
+and contractor recieves payment for work on the 15th and 30th of the month.
 
 ## Benefits
  * Remote work
