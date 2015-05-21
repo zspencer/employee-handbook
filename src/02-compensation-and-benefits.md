@@ -6,7 +6,7 @@ Compensation at Zinc is separated into billable and un-billable work. Each pay
 period, we decide as a team how many days per week we can work on either
 billable or non-billable projects.
 
-Billable work is compensated at $300 per day.
+Billable work is compensated at $240 per day.
 Non-billable work is compensated at $120 per day.
 
 Every half-day worked on both billable and non-billable work adds a share for
