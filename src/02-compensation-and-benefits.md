@@ -13,7 +13,7 @@ Every half-day worked on both billable and non-billable work adds a share for
 the worker into our profit sharing pool, which gets paid out monthly out of the
 previous quarters profits.
 
-Zinc employees recieve payment for work on the 15th and 30th of the month.
+Zinc employees recieve payment for work on the 15th and last business day of the month.
 Contractors receive payment upon receipt of invoice.
 
 ## Benefits
