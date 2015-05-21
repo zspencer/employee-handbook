@@ -22,22 +22,24 @@ Contractors receive payment upon receipt of invoice.
  * Part-time and full-time friendly
  * Minimum vacation policy
  * Profit sharing
- * 1 day a week of paid [professional + personal development time](/undirected-time-explained).
+ * 1 day a week of paid [professional/personal development time](/undirected-time-explained).
 
-### Part Time Benefits
- * 8 days paid minimum vacation per year.
- * 2 days paid minimum sick/recovery time per year.
- * 4 flexible holiday days per year.
- * $80/month for co-working space reimbursements
- * $800 per year Tools of the Trade and Education budget.
 
-### Full Time Benefits
+### Full Time Benefits (>= 4 days per week)
  * 20 days minimum paid vacation.
  * 5 days minimum sick/recovery time per year.
  * 10 flexible holiday days per year.
  * $200/month for co-working space reimbursements
  * $2,000 per year Tools of the Trade and Education budget.
  * Full dental and vision coverage for employee and dependents.
+
+
+### Part Time Benefits (< 4 days per week)
+ * 8 days paid minimum vacation per year.
+ * 2 days paid minimum sick/recovery time per year.
+ * 4 flexible holiday days per year.
+ * $80/month for co-working space reimbursements
+ * $800 per year Tools of the Trade and Education budget.
 
 ### Potential Upcoming Benefits
  * Phone + Data plan
